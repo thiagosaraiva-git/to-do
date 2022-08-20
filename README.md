@@ -1,7 +1,7 @@
 # to-do-mtp
 To-Do list I developed using ASP.NET and C# with SQL Server and Bulma CSS Framework
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/9470353/185767529-946c7490-88b3-48c2-9c7e-3a4643e5c9a5.gif)
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/9470353/185767936-1bf53611-a882-45a9-b90d-1f38c3b525bd.gif)
 
 # SQL Server Queries:
 * First: Create Database
