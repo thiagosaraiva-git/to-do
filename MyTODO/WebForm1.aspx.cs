@@ -11,11 +11,7 @@ namespace MyTODO
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-
-        }
-
+    
         protected void Button1_Click(object sender, EventArgs e)
         {
             var text = TextAdd.Text;
@@ -29,21 +25,6 @@ namespace MyTODO
 
             sqlConn.Close();
             GridView1.DataBind();
-        }
-
-        protected void GridView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        protected void SqlDataSource_Selecting(object sender, SqlDataSourceSelectingEventArgs e)
-        {
-
-        }
-
-        protected void GridView1_SelectedIndexChanged1(object sender, EventArgs e)
-        {
-
         }
     }
 }
