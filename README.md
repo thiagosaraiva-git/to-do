@@ -1,4 +1,4 @@
-# to-do-mtp
+# to-do
 To-Do list I developed using ASP.NET, C# and Bulma CSS Framework with SQL Server 
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/9470353/185767936-1bf53611-a882-45a9-b90d-1f38c3b525bd.gif)
